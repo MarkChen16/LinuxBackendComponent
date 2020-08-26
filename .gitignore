@@ -1,0 +1,14 @@
+# Build results
+~/
+[Bb]in/
+[Oo]bj/
+
+#Visual Studio 2019 cache/options directory
+.vs/
+*.vcxproj.user
+
+#QT Creator cache/options file or directory
+/*-Debug/
+/*-Release/
+*.pro.user*
+
